@@ -1,0 +1,29 @@
+{
+  "model_key": "bednet-behaviour-classifier:v2",
+  "checked_at": "2026-09-10T09:21:08+00:00",
+  "n_current": 400,
+  "features_alert": 8,
+  "features_warn": 0,
+  "worst_psi": 10.8405,
+  "worst_feature": "meanzover10vector_forward",
+  "prediction_drift": {
+    "prediction_psi": 3.1678014058685706,
+    "severity": "alert",
+    "max_class_shift": 0.38332089552238807,
+    "shift_0.0": -0.38332089552238807,
+    "shift_1.0": 0.347089552238806,
+    "shift_2.0": 0.109365671641791,
+    "shift_3.0": -0.07313432835820896
+  },
+  "decision": {
+    "decision": "retrain",
+    "retrain": true,
+    "reasons": [
+      "8 features at PSI alert level (threshold 3)",
+      "worst feature PSI 10.840 > 0.25",
+      "prediction PSI 3.168 > 0.2",
+      "balanced accuracy 0.840 below floor 0.85",
+      "balanced accuracy dropped 0.120 from baseline (threshold 0.05)"
+    ]
+  }
+}

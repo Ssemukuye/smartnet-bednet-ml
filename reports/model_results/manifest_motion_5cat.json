@@ -1,0 +1,21 @@
+{
+  "label_col": "motion_5cat",
+  "feature_block": "all",
+  "n_features": 48,
+  "n_observations": 1340,
+  "n_events": 664,
+  "n_recording_days": 25,
+  "date_range": [
+    "2021-09-10 12:06:10",
+    "2021-10-04 08:40:14"
+  ],
+  "class_counts": {
+    "Nothing": 517,
+    "Put up": 504,
+    "Put down": 228,
+    "Enter": 47,
+    "Exit": 44
+  },
+  "seed": 42,
+  "n_splits": 5
+}

@@ -1,0 +1,9 @@
+name,severity,n_affected,message
+required_columns,pass,0,All 53 expected columns present
+missing_values,pass,0,No missing values in features or labels
+duplicate_feature_rows,pass,0,0 rows duplicated on the feature vector
+timestamp_validity,pass,0,All 1340 timestamps parse and are unique (2021-09-10 to 2021-10-04)
+label_consistency,pass,0,Nested label schemes are mutually consistent
+value_ranges,pass,0,All checked features within plausible bounds
+class_support,pass,91,Rarest class in motion_4cat is 'Enter or exit' with 91 epochs
+event_purity,pass,664,All 664 derived events are label-pure

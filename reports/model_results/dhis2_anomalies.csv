@@ -1,0 +1,263 @@
+orgUnit,period,dataElement,value,expected,detector,severity,confidence,explanation
+Facility_001,202410,Malaria_tested,-340.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_033,202510,ANC_1st_visit,-94.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_027,202406,Malaria_confirmed,-354.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_027,202507,Malaria_treated,-263.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_028,202401,ANC_2nd_visit,-133.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_030,202407,Malaria_treated,-254.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_032,202402,ANC_2nd_visit,-108.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_032,202408,ANC_2nd_visit,-93.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_001,202501,Malaria_confirmed,-180.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_022,202502,ANC_2nd_visit,-69.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_035,202505,Malaria_treated,-311.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_038,202403,Malaria_confirmed,-127.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_039,202403,Malaria_treated,-104.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_040,202405,Malaria_tested,-797.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_040,202504,Malaria_treated,-331.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_040,202512,Malaria_confirmed,-181.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_025,202511,Malaria_treated,-54.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_026,202502,ANC_1st_visit,-127.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_007,202501,Malaria_treated,-115.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_019,202505,Malaria_confirmed,-389.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_009,202507,ITN_distributed,-57.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_011,202407,Malaria_tested,-1083.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_020,202506,Malaria_confirmed,-200.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_015,202407,ITN_distributed,-75.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_015,202510,Malaria_tested,-463.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_016,202407,ANC_2nd_visit,-74.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_009,202505,Malaria_confirmed,-268.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_020,202402,Malaria_tested,-330.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_007,202403,ANC_1st_visit,-145.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_003,202409,ANC_1st_visit,-191.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_020,202412,Malaria_confirmed,-88.0,0.0,impossible_value,high,0.99,Negative value reported for a count data element
+Facility_023,202501,Malaria_tested,5370.0,859.5,statistical_outlier,high,0.95,Modified z-score 15.3 against a facility median of 860 (MAD 199)
+Facility_026,202506,Malaria_tested,4560.0,368.0,statistical_outlier,high,0.95,Modified z-score 39.8 against a facility median of 368 (MAD 71)
+Facility_022,202407,ANC_1st_visit,1080.0,94.0,statistical_outlier,high,0.95,Modified z-score 66.5 against a facility median of 94 (MAD 10)
+Facility_021,202505,Malaria_confirmed,2050.0,174.5,statistical_outlier,high,0.95,Modified z-score 28.1 against a facility median of 174 (MAD 45)
+Facility_023,202503,ITN_distributed,250000.0,181.0,statistical_outlier,high,0.95,Modified z-score 9361.3 against a facility median of 181 (MAD 18)
+Facility_025,202501,Malaria_tested,2210.0,366.0,statistical_outlier,high,0.95,Modified z-score 16.9 against a facility median of 366 (MAD 74)
+Facility_024,202508,ANC_1st_visit,1000.0,122.5,statistical_outlier,high,0.95,Modified z-score 65.8 against a facility median of 122 (MAD 9)
+Facility_024,202401,ANC_2nd_visit,1110.0,95.0,statistical_outlier,high,0.95,Modified z-score 76.1 against a facility median of 95 (MAD 9)
+Facility_025,202409,Malaria_treated,1500.0,127.0,statistical_outlier,high,0.95,Modified z-score 33.7 against a facility median of 127 (MAD 28)
+Facility_025,202404,ITN_distributed,710.0,79.5,statistical_outlier,high,0.95,Modified z-score 29.3 against a facility median of 80 (MAD 14)
+Facility_021,202503,ITN_distributed,590.0,89.0,statistical_outlier,high,0.95,Modified z-score 24.1 against a facility median of 89 (MAD 14)
+Facility_025,202504,ITN_distributed,940.0,79.5,statistical_outlier,high,0.95,Modified z-score 40.0 against a facility median of 80 (MAD 14)
+Facility_025,202505,ITN_distributed,250000.0,79.5,statistical_outlier,high,0.95,Modified z-score 11625.6 against a facility median of 80 (MAD 14)
+Facility_021,202504,Malaria_confirmed,250000.0,174.5,statistical_outlier,high,0.95,Modified z-score 3744.6 against a facility median of 174 (MAD 45)
+Facility_018,202507,Malaria_tested,3370.0,253.5,statistical_outlier,high,0.95,Modified z-score 35.3 against a facility median of 254 (MAD 60)
+Facility_021,202404,ITN_distributed,770.0,89.0,statistical_outlier,high,0.95,Modified z-score 32.8 against a facility median of 89 (MAD 14)
+Facility_020,202507,Malaria_confirmed,2430.0,172.0,statistical_outlier,high,0.95,Modified z-score 23.1 against a facility median of 172 (MAD 66)
+Facility_020,202403,ITN_distributed,760.0,96.5,statistical_outlier,high,0.95,Modified z-score 30.9 against a facility median of 96 (MAD 14)
+Facility_019,202411,Malaria_treated,250000.0,249.5,statistical_outlier,high,0.95,Modified z-score 2673.9 against a facility median of 250 (MAD 63)
+Facility_019,202409,ANC_2nd_visit,616.0,172.5,statistical_outlier,high,0.95,Modified z-score 18.1 against a facility median of 172 (MAD 16)
+Facility_018,202509,Malaria_tested,1740.0,253.5,statistical_outlier,high,0.95,Modified z-score 16.9 against a facility median of 254 (MAD 60)
+Facility_026,202410,Malaria_treated,1100.0,148.0,statistical_outlier,high,0.95,Modified z-score 22.9 against a facility median of 148 (MAD 28)
+Facility_018,202507,Malaria_confirmed,611.0,109.5,statistical_outlier,high,0.95,Modified z-score 15.4 against a facility median of 110 (MAD 22)
+Facility_017,202508,ANC_1st_visit,1830.0,183.0,statistical_outlier,high,0.95,Modified z-score 54.2 against a facility median of 183 (MAD 20)
+Facility_016,202511,ITN_distributed,317.0,63.0,statistical_outlier,high,0.95,Modified z-score 18.0 against a facility median of 63 (MAD 10)
+Facility_016,202410,ITN_distributed,360.0,63.0,statistical_outlier,high,0.95,Modified z-score 21.1 against a facility median of 63 (MAD 10)
+Facility_015,202411,Malaria_treated,1750.0,220.5,statistical_outlier,high,0.95,Modified z-score 17.9 against a facility median of 220 (MAD 58)
+Facility_015,202511,ITN_distributed,1170.0,123.0,statistical_outlier,high,0.95,Modified z-score 48.7 against a facility median of 123 (MAD 14)
+Facility_026,202512,Malaria_tested,2580.0,368.0,statistical_outlier,high,0.95,Modified z-score 21.0 against a facility median of 368 (MAD 71)
+Facility_033,202412,ANC_2nd_visit,750.0,84.5,statistical_outlier,high,0.95,Modified z-score 44.9 against a facility median of 84 (MAD 10)
+Facility_027,202507,ANC_1st_visit,1250.0,181.0,statistical_outlier,high,0.95,Modified z-score 37.9 against a facility median of 181 (MAD 19)
+Facility_027,202402,ITN_distributed,643.0,119.0,statistical_outlier,high,0.95,Modified z-score 15.0 against a facility median of 119 (MAD 24)
+Facility_040,202501,Malaria_confirmed,2120.0,249.0,statistical_outlier,high,0.95,Modified z-score 23.4 against a facility median of 249 (MAD 54)
+Facility_040,202402,ANC_2nd_visit,911.0,154.5,statistical_outlier,high,0.95,Modified z-score 26.2 against a facility median of 154 (MAD 20)
+Facility_040,202404,ANC_1st_visit,2050.0,200.5,statistical_outlier,high,0.95,Modified z-score 124.7 against a facility median of 200 (MAD 10)
+Facility_039,202506,Malaria_treated,1730.0,98.5,statistical_outlier,high,0.95,Modified z-score 46.8 against a facility median of 98 (MAD 24)
+Facility_039,202403,ITN_distributed,250000.0,63.0,statistical_outlier,high,0.95,Modified z-score 15325.7 against a facility median of 63 (MAD 11)
+Facility_039,202501,ANC_1st_visit,870.0,89.0,statistical_outlier,high,0.95,Modified z-score 65.8 against a facility median of 89 (MAD 8)
+Facility_038,202512,ITN_distributed,250000.0,53.5,statistical_outlier,high,0.95,Modified z-score 21073.6 against a facility median of 54 (MAD 8)
+Facility_038,202505,ITN_distributed,610.0,53.5,statistical_outlier,high,0.95,Modified z-score 46.9 against a facility median of 54 (MAD 8)
+Facility_036,202505,Malaria_treated,4420.0,293.0,statistical_outlier,high,0.95,Modified z-score 32.9 against a facility median of 293 (MAD 84)
+Facility_036,202404,ANC_2nd_visit,250000.0,208.0,statistical_outlier,high,0.95,Modified z-score 10530.3 against a facility median of 208 (MAD 16)
+Facility_035,202404,Malaria_confirmed,250000.0,244.5,statistical_outlier,high,0.95,Modified z-score 3785.6 against a facility median of 244 (MAD 44)
+Facility_034,202512,ITN_distributed,520.0,66.5,statistical_outlier,high,0.95,Modified z-score 32.2 against a facility median of 66 (MAD 10)
+Facility_034,202504,ITN_distributed,650.0,66.5,statistical_outlier,high,0.95,Modified z-score 41.4 against a facility median of 66 (MAD 10)
+Facility_033,202503,Malaria_treated,1100.0,132.5,statistical_outlier,high,0.95,Modified z-score 17.6 against a facility median of 132 (MAD 37)
+Facility_033,202509,Malaria_tested,3560.0,341.5,statistical_outlier,high,0.95,Modified z-score 29.1 against a facility median of 342 (MAD 74)
+Facility_015,202405,ANC_1st_visit,1034.0,176.5,statistical_outlier,high,0.95,Modified z-score 35.1 against a facility median of 176 (MAD 16)
+Facility_033,202409,ANC_2nd_visit,250000.0,84.5,statistical_outlier,high,0.95,Modified z-score 16856.8 against a facility median of 84 (MAD 10)
+Facility_031,202408,ANC_2nd_visit,4300.0,353.5,statistical_outlier,high,0.95,Modified z-score 71.9 against a facility median of 354 (MAD 37)
+Facility_031,202402,ANC_2nd_visit,3360.0,353.5,statistical_outlier,high,0.95,Modified z-score 54.8 against a facility median of 354 (MAD 37)
+Facility_031,202408,ANC_1st_visit,4430.0,446.0,statistical_outlier,high,0.95,Modified z-score 56.6 against a facility median of 446 (MAD 48)
+Facility_030,202505,Malaria_treated,2980.0,198.0,statistical_outlier,high,0.95,Modified z-score 41.2 against a facility median of 198 (MAD 46)
+Facility_029,202504,Malaria_confirmed,2830.0,233.0,statistical_outlier,high,0.95,Modified z-score 34.0 against a facility median of 233 (MAD 52)
+Facility_029,202512,ITN_distributed,1540.0,123.0,statistical_outlier,high,0.95,Modified z-score 63.7 against a facility median of 123 (MAD 15)
+Facility_029,202403,ITN_distributed,723.0,123.0,statistical_outlier,high,0.95,Modified z-score 27.0 against a facility median of 123 (MAD 15)
+Facility_027,202510,Malaria_treated,2120.0,206.0,statistical_outlier,high,0.95,Modified z-score 19.3 against a facility median of 206 (MAD 67)
+Facility_027,202403,Malaria_treated,250000.0,206.0,statistical_outlier,high,0.95,Modified z-score 2514.7 against a facility median of 206 (MAD 67)
+Facility_027,202408,Malaria_tested,6480.0,535.0,statistical_outlier,high,0.95,Modified z-score 27.5 against a facility median of 535 (MAD 146)
+Facility_015,202503,ANC_1st_visit,712.0,176.5,statistical_outlier,high,0.95,Modified z-score 21.9 against a facility median of 176 (MAD 16)
+Facility_037,202504,Malaria_treated,1640.0,164.5,statistical_outlier,high,0.95,Modified z-score 23.7 against a facility median of 164 (MAD 42)
+Facility_014,202504,Malaria_treated,1605.0,282.5,statistical_outlier,high,0.95,Modified z-score 14.5 against a facility median of 282 (MAD 62)
+Facility_009,202509,Malaria_tested,4760.0,393.5,statistical_outlier,high,0.95,Modified z-score 33.5 against a facility median of 394 (MAD 88)
+Facility_008,202401,Malaria_tested,3260.0,402.0,statistical_outlier,high,0.95,Modified z-score 23.9 against a facility median of 402 (MAD 80)
+Facility_007,202408,ITN_distributed,1060.0,102.5,statistical_outlier,high,0.95,Modified z-score 46.1 against a facility median of 102 (MAD 14)
+Facility_007,202406,ANC_1st_visit,1270.0,156.0,statistical_outlier,high,0.95,Modified z-score 39.5 against a facility median of 156 (MAD 19)
+Facility_006,202408,Malaria_confirmed,980.0,93.0,statistical_outlier,high,0.95,Modified z-score 26.0 against a facility median of 93 (MAD 23)
+Facility_006,202506,ITN_distributed,712.0,44.0,statistical_outlier,high,0.95,Modified z-score 69.3 against a facility median of 44 (MAD 6)
+Facility_005,202407,Malaria_tested,2030.0,138.0,statistical_outlier,high,0.95,Modified z-score 44.8 against a facility median of 138 (MAD 28)
+Facility_004,202503,Malaria_treated,2390.0,303.5,statistical_outlier,high,0.95,Modified z-score 16.1 against a facility median of 304 (MAD 88)
+Facility_004,202408,Malaria_tested,8410.0,704.0,statistical_outlier,high,0.95,Modified z-score 26.6 against a facility median of 704 (MAD 196)
+Facility_004,202508,ITN_distributed,1198.0,143.5,statistical_outlier,high,0.95,Modified z-score 22.9 against a facility median of 144 (MAD 31)
+Facility_003,202406,ANC_2nd_visit,1730.0,172.0,statistical_outlier,high,0.95,Modified z-score 50.0 against a facility median of 172 (MAD 21)
+Facility_003,202501,ANC_1st_visit,747.0,221.0,statistical_outlier,high,0.95,Modified z-score 12.2 against a facility median of 221 (MAD 29)
+Facility_003,202411,ANC_1st_visit,771.0,221.0,statistical_outlier,high,0.95,Modified z-score 12.8 against a facility median of 221 (MAD 29)
+Facility_001,202502,Malaria_confirmed,1880.0,212.5,statistical_outlier,high,0.95,Modified z-score 23.7 against a facility median of 212 (MAD 48)
+Facility_013,202402,Malaria_treated,250000.0,100000.0,impossible_value,high,0.95,"Value exceeds the plausible ceiling of 100,000"
+Facility_009,202406,Malaria_confirmed,250000.0,100000.0,impossible_value,high,0.95,"Value exceeds the plausible ceiling of 100,000"
+Facility_006,202410,ANC_2nd_visit,570.0,54.0,statistical_outlier,high,0.95,Modified z-score 49.7 against a facility median of 54 (MAD 7)
+Facility_014,202407,Malaria_confirmed,4580.0,342.5,statistical_outlier,high,0.95,Modified z-score 37.1 against a facility median of 342 (MAD 77)
+Facility_013,202407,ANC_2nd_visit,302.0,110.0,statistical_outlier,high,0.95,Modified z-score 28.8 against a facility median of 110 (MAD 4)
+Facility_012,202406,Malaria_tested,9030.0,592.5,statistical_outlier,high,0.95,Modified z-score 41.4 against a facility median of 592 (MAD 138)
+Facility_014,202502,Malaria_treated,2260.0,282.5,statistical_outlier,high,0.95,Modified z-score 21.7 against a facility median of 282 (MAD 62)
+Facility_012,202505,ANC_1st_visit,710.0,220.0,statistical_outlier,high,0.95,Modified z-score 12.5 against a facility median of 220 (MAD 26)
+Facility_010,202511,ANC_2nd_visit,650.0,72.5,statistical_outlier,high,0.95,Modified z-score 59.9 against a facility median of 72 (MAD 6)
+Facility_014,202501,Malaria_tested,5560.0,803.0,statistical_outlier,high,0.95,Modified z-score 15.2 against a facility median of 803 (MAD 210)
+Facility_010,202411,ITN_distributed,430.0,60.5,statistical_outlier,high,0.95,Modified z-score 21.7 against a facility median of 60 (MAD 12)
+Facility_023,202504,Malaria_confirmed,1485.0,364.0,statistical_outlier,high,0.944,Modified z-score 11.4 against a facility median of 364 (MAD 66)
+Facility_016,202404,ANC_2nd_visit,171.0,63.5,statistical_outlier,high,0.933,Modified z-score 11.2 against a facility median of 64 (MAD 6)
+Facility_033,202510,ANC_2nd_visit,73.0,-94.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_036,202410,Malaria_treated,914.0,194.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_001,202410,Malaria_confirmed,180.0,-340.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_035,202403,Malaria_treated,995.0,285.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_003,202511,Malaria_confirmed,1630.0,490.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_040,202502,ANC_2nd_visit,387.0,215.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_007,202403,ANC_2nd_visit,118.0,-145.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_021,202407,ANC_2nd_visit,254.0,141.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_022,202409,ANC_2nd_visit,75.0,57.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_040,202403,Malaria_treated,1101.0,165.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_024,202403,ANC_2nd_visit,220.0,122.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_024,202504,ANC_2nd_visit,221.0,123.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_026,202502,ANC_2nd_visit,99.0,-127.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_029,202401,ANC_2nd_visit,310.0,172.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_038,202501,Malaria_treated,355.0,112.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_011,202407,Malaria_confirmed,420.0,-1083.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_015,202510,Malaria_confirmed,197.0,-463.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_038,202412,Malaria_confirmed,282.0,176.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_038,202510,Malaria_confirmed,344.0,215.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_040,202405,Malaria_confirmed,394.0,-797.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_004,202403,Malaria_treated,1342.0,312.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_019,202501,Malaria_treated,518.0,209.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_022,202403,Malaria_treated,311.0,135.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_023,202401,Malaria_treated,438.0,348.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_036,202511,Malaria_confirmed,1162.0,726.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_032,202404,Malaria_confirmed,757.0,473.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_017,202412,Malaria_confirmed,453.0,283.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_033,202412,Malaria_treated,72.0,28.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_020,202402,Malaria_confirmed,173.0,-330.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_030,202506,Malaria_treated,234.0,38.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_021,202501,Malaria_confirmed,416.0,260.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_025,202409,Malaria_confirmed,610.0,381.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_005,202508,ANC_2nd_visit,83.0,46.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_027,202505,Malaria_confirmed,925.0,803.0,consistency:confirmed_lte_tested,high,0.92,Confirmed malaria cases exceed the number of tests performed
+Facility_028,202405,Malaria_treated,723.0,339.0,consistency:treated_lte_confirmed,high,0.92,Malaria treatments exceed confirmed cases by more than 15%
+Facility_005,202506,ANC_2nd_visit,53.0,35.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_003,202409,ANC_2nd_visit,162.0,-191.0,consistency:anc2_lte_anc1,high,0.92,ANC 2nd visits exceed ANC 1st visits at the same facility and period
+Facility_002,"202502,202503,202504…",ANC_2nd_visit,,,missing_report,high,0.85,No value reported for 11 period(s) after the facility began reporting in 202401
+Facility_002,"202502,202503,202504…",ITN_distributed,,,missing_report,high,0.85,No value reported for 11 period(s) after the facility began reporting in 202401
+Facility_002,"202502,202503,202504…",Malaria_confirmed,,,missing_report,high,0.85,No value reported for 11 period(s) after the facility began reporting in 202401
+Facility_002,"202502,202503,202504…",Malaria_tested,,,missing_report,high,0.85,No value reported for 11 period(s) after the facility began reporting in 202401
+Facility_002,"202502,202503,202504…",ANC_1st_visit,,,missing_report,high,0.85,No value reported for 11 period(s) after the facility began reporting in 202401
+Facility_002,"202502,202503,202504…",Malaria_treated,,,missing_report,high,0.85,No value reported for 11 period(s) after the facility began reporting in 202401
+Facility_007,202510,ANC_2nd_visit,50.0,123.0,statistical_outlier,high,0.754,Modified z-score -7.6 against a facility median of 123 (MAD 6)
+Facility_003,202510,ANC_1st_visit,526.0,221.0,statistical_outlier,high,0.73,Modified z-score 7.1 against a facility median of 221 (MAD 29)
+Facility_025,202410,Malaria_confirmed,122.0,301.0,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 301 to 98
+Facility_023,202412,Malaria_tested,530.0,580.0,level_shift,medium,0.7,"Reporting level changed 3.7x from a 3-period mean of 580 to 2,161"
+Facility_022,202412,ANC_2nd_visit,83.0,81.0,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 81 to 26
+Facility_023,202501,ITN_distributed,172.0,157.0,level_shift,medium,0.7,"Reporting level changed 531.6x from a 3-period mean of 157 to 83,463"
+Facility_023,202502,Malaria_confirmed,323.0,231.66666666666666,level_shift,medium,0.7,Reporting level changed 3.1x from a 3-period mean of 232 to 709
+Facility_025,202412,Malaria_tested,204.0,283.0,level_shift,medium,0.7,Reporting level changed 3.2x from a 3-period mean of 283 to 902
+Facility_025,202407,Malaria_treated,140.0,176.66666666666666,level_shift,medium,0.7,Reporting level changed 3.3x from a 3-period mean of 177 to 587
+Facility_025,202407,ITN_distributed,61.0,285.0,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 285 to 76
+Facility_024,202506,ANC_1st_visit,131.0,128.66666666666666,level_shift,medium,0.7,Reporting level changed 3.3x from a 3-period mean of 129 to 418
+Facility_018,202505,Malaria_tested,308.0,232.33333333333334,level_shift,medium,0.7,"Reporting level changed 5.7x from a 3-period mean of 232 to 1,313"
+Facility_021,202502,Malaria_confirmed,122.0,215.66666666666666,level_shift,medium,0.7,"Reporting level changed 386.8x from a 3-period mean of 216 to 83,410"
+Facility_021,202407,ITN_distributed,95.0,312.6666666666667,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 313 to 97
+Facility_020,202410,Malaria_confirmed,148.0,209.66666666666666,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 210 to 57
+Facility_019,202409,Malaria_treated,239.0,347.6666666666667,level_shift,medium,0.7,"Reporting level changed 240.1x from a 3-period mean of 348 to 83,475"
+Facility_019,202506,Malaria_confirmed,457.0,81.0,level_shift,medium,0.7,Reporting level changed 4.5x from a 3-period mean of 81 to 368
+Facility_026,202504,Malaria_tested,368.0,263.0,level_shift,medium,0.7,"Reporting level changed 6.9x from a 3-period mean of 263 to 1,802"
+Facility_018,202509,Malaria_confirmed,89.0,295.3333333333333,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 295 to 89
+Facility_017,202506,ANC_1st_visit,147.0,207.0,level_shift,medium,0.7,Reporting level changed 3.4x from a 3-period mean of 207 to 713
+Facility_016,202408,ITN_distributed,78.0,42.666666666666664,level_shift,medium,0.7,Reporting level changed 3.9x from a 3-period mean of 43 to 166
+Facility_015,202509,Malaria_tested,541.0,675.0,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 675 to 209
+Facility_014,202412,Malaria_treated,237.0,265.0,level_shift,medium,0.7,Reporting level changed 3.4x from a 3-period mean of 265 to 908
+Facility_026,202412,ANC_1st_visit,120.0,131.0,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 131 to 41
+Facility_026,202408,Malaria_treated,181.0,158.0,level_shift,medium,0.7,Reporting level changed 3.0x from a 3-period mean of 158 to 477
+Facility_040,202502,Malaria_treated,212.0,159.66666666666666,level_shift,medium,0.7,Reporting level changed 0.2x from a 3-period mean of 160 to 37
+Facility_040,202411,Malaria_confirmed,103.0,247.0,level_shift,medium,0.7,Reporting level changed 3.3x from a 3-period mean of 247 to 813
+Facility_040,202407,ANC_1st_visit,193.0,822.6666666666666,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 823 to 210
+Facility_039,202504,Malaria_treated,100.0,92.33333333333333,level_shift,medium,0.7,Reporting level changed 7.1x from a 3-period mean of 92 to 655
+Facility_039,202411,ANC_1st_visit,79.0,90.33333333333333,level_shift,medium,0.7,Reporting level changed 3.9x from a 3-period mean of 90 to 350
+Facility_038,202503,ITN_distributed,46.0,45.333333333333336,level_shift,medium,0.7,Reporting level changed 5.2x from a 3-period mean of 45 to 235
+Facility_037,202502,Malaria_treated,160.0,115.33333333333333,level_shift,medium,0.7,Reporting level changed 5.6x from a 3-period mean of 115 to 647
+Facility_036,202503,Malaria_treated,229.0,202.33333333333334,level_shift,medium,0.7,"Reporting level changed 8.2x from a 3-period mean of 202 to 1,660"
+Facility_036,202407,ANC_2nd_visit,199.0,83473.33333333333,level_shift,medium,0.7,"Reporting level changed 0.0x from a 3-period mean of 83,473 to 200"
+Facility_035,202504,Malaria_treated,246.0,191.66666666666666,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 192 to 55
+Facility_035,202407,Malaria_confirmed,344.0,83560.33333333333,level_shift,medium,0.7,"Reporting level changed 0.0x from a 3-period mean of 83,560 to 279"
+Facility_034,202502,ITN_distributed,75.0,50.0,level_shift,medium,0.7,Reporting level changed 5.3x from a 3-period mean of 50 to 267
+Facility_033,202501,Malaria_treated,96.0,80.33333333333333,level_shift,medium,0.7,Reporting level changed 5.2x from a 3-period mean of 80 to 419
+Facility_033,202507,Malaria_tested,387.0,399.3333333333333,level_shift,medium,0.7,"Reporting level changed 3.7x from a 3-period mean of 399 to 1,464"
+Facility_033,202407,ANC_2nd_visit,71.0,94.0,level_shift,medium,0.7,"Reporting level changed 887.0x from a 3-period mean of 94 to 83,380"
+Facility_033,202509,ANC_1st_visit,134.0,120.66666666666667,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 121 to 36
+Facility_032,202407,ANC_2nd_visit,88.0,85.33333333333333,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 85 to 23
+Facility_031,202407,ANC_2nd_visit,368.0,368.3333333333333,level_shift,medium,0.7,"Reporting level changed 4.5x from a 3-period mean of 368 to 1,655"
+Facility_031,202407,ANC_1st_visit,484.0,415.6666666666667,level_shift,medium,0.7,"Reporting level changed 4.3x from a 3-period mean of 416 to 1,787"
+Facility_029,202502,Malaria_confirmed,237.0,143.0,level_shift,medium,0.7,"Reporting level changed 7.8x from a 3-period mean of 143 to 1,111"
+Facility_029,202510,ITN_distributed,116.0,126.66666666666667,level_shift,medium,0.7,Reporting level changed 4.7x from a 3-period mean of 127 to 591
+Facility_027,202407,Malaria_tested,708.0,737.6666666666666,level_shift,medium,0.7,"Reporting level changed 3.5x from a 3-period mean of 738 to 2,547"
+Facility_027,202407,Malaria_confirmed,267.0,70.33333333333333,level_shift,medium,0.7,Reporting level changed 3.7x from a 3-period mean of 70 to 263
+Facility_014,202412,Malaria_tested,473.0,661.3333333333334,level_shift,medium,0.7,"Reporting level changed 3.5x from a 3-period mean of 661 to 2,289"
+Facility_012,202407,Malaria_tested,773.0,3522.6666666666665,level_shift,medium,0.7,"Reporting level changed 0.2x from a 3-period mean of 3,523 to 670"
+Facility_006,202407,Malaria_confirmed,142.0,113.33333333333333,level_shift,medium,0.7,Reporting level changed 3.6x from a 3-period mean of 113 to 413
+Facility_006,202504,ITN_distributed,57.0,44.0,level_shift,medium,0.7,Reporting level changed 6.1x from a 3-period mean of 44 to 270
+Facility_001,202411,Malaria_confirmed,155.0,198.33333333333334,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 198 to 53
+Facility_001,202408,Malaria_tested,480.0,601.6666666666666,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 602 to 182
+Facility_003,202407,ANC_1st_visit,213.0,200.66666666666666,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 201 to 66
+Facility_003,202407,ANC_2nd_visit,143.0,691.3333333333334,level_shift,medium,0.7,Reporting level changed 0.2x from a 3-period mean of 691 to 156
+Facility_004,202506,ITN_distributed,177.0,154.0,level_shift,medium,0.7,Reporting level changed 3.2x from a 3-period mean of 154 to 500
+Facility_004,202407,Malaria_tested,1065.0,925.0,level_shift,medium,0.7,"Reporting level changed 3.7x from a 3-period mean of 925 to 3,402"
+Facility_004,202501,Malaria_treated,87.0,225.33333333333334,level_shift,medium,0.7,Reporting level changed 3.9x from a 3-period mean of 225 to 888
+Facility_006,202408,ANC_2nd_visit,43.0,47.333333333333336,level_shift,medium,0.7,Reporting level changed 4.7x from a 3-period mean of 47 to 223
+Facility_007,202407,ANC_1st_visit,134.0,515.0,level_shift,medium,0.7,Reporting level changed 0.3x from a 3-period mean of 515 to 152
+Facility_007,202407,ITN_distributed,127.0,109.66666666666667,level_shift,medium,0.7,Reporting level changed 3.9x from a 3-period mean of 110 to 426
+Facility_007,202411,Malaria_treated,89.0,193.66666666666666,level_shift,medium,0.7,Reporting level changed 0.2x from a 3-period mean of 194 to 37
+Facility_009,202407,Malaria_confirmed,278.0,83493.66666666667,level_shift,medium,0.7,"Reporting level changed 0.0x from a 3-period mean of 83,494 to 233"
+Facility_009,202507,Malaria_tested,646.0,533.0,level_shift,medium,0.7,"Reporting level changed 3.7x from a 3-period mean of 533 to 1,955"
+Facility_010,202509,ANC_2nd_visit,82.0,76.0,level_shift,medium,0.7,Reporting level changed 3.4x from a 3-period mean of 76 to 256
+Facility_010,202409,ITN_distributed,72.0,54.666666666666664,level_shift,medium,0.7,Reporting level changed 3.4x from a 3-period mean of 55 to 187
+Facility_007,202508,ANC_2nd_visit,63.0,123.0,statistical_outlier,medium,0.686,Modified z-score -6.2 against a facility median of 123 (MAD 6)
+Facility_007,202508,ANC_1st_visit,318.0,156.0,statistical_outlier,medium,0.663,Modified z-score 5.8 against a facility median of 156 (MAD 19)
+Facility_013,202508,ANC_2nd_visit,78.0,110.0,statistical_outlier,medium,0.615,Modified z-score -4.8 against a facility median of 110 (MAD 4)
+Facility_013,202502,ANC_2nd_visit,79.0,110.0,statistical_outlier,medium,0.607,Modified z-score -4.6 against a facility median of 110 (MAD 4)
+Facility_013,202507,ANC_2nd_visit,79.0,110.0,statistical_outlier,medium,0.607,Modified z-score -4.6 against a facility median of 110 (MAD 4)
+Facility_013,202403,ANC_2nd_visit,80.0,110.0,statistical_outlier,medium,0.6,Modified z-score -4.5 against a facility median of 110 (MAD 4)
+Facility_027,202512,ANC_2nd_visit,192.0,145.5,statistical_outlier,medium,0.599,Modified z-score 4.5 against a facility median of 146 (MAD 7)
+Facility_026,202411,Malaria_tested,819.0,368.0,statistical_outlier,medium,0.589,Modified z-score 4.3 against a facility median of 368 (MAD 71)
+Facility_013,202404,Malaria_tested,946.0,442.5,statistical_outlier,medium,0.587,Modified z-score 4.2 against a facility median of 442 (MAD 80)
+Facility_011,202505,ITN_distributed,249.0,158.5,statistical_outlier,medium,0.585,Modified z-score 4.2 against a facility median of 158 (MAD 14)
+Facility_034,202512,ANC_1st_visit,59.0,89.0,statistical_outlier,medium,0.577,Modified z-score -4.0 against a facility median of 89 (MAD 5)
+Facility_012,202502,ITN_distributed,215.0,128.0,statistical_outlier,medium,0.571,Modified z-score 3.9 against a facility median of 128 (MAD 15)
+Facility_036,202506,ANC_1st_visit,437.0,257.5,statistical_outlier,medium,0.57,Modified z-score 3.9 against a facility median of 258 (MAD 31)
+Facility_035,202502,ANC_2nd_visit,87.0,144.5,statistical_outlier,medium,0.569,Modified z-score -3.9 against a facility median of 144 (MAD 10)
+Facility_006,202506,Malaria_tested,445.0,196.0,statistical_outlier,medium,0.568,Modified z-score 3.9 against a facility median of 196 (MAD 44)
+Facility_007,202511,ANC_2nd_visit,86.0,123.0,statistical_outlier,medium,0.567,Modified z-score -3.8 against a facility median of 123 (MAD 6)
+Facility_040,202401,ANC_1st_visit,144.0,200.5,statistical_outlier,medium,0.566,Modified z-score -3.8 against a facility median of 200 (MAD 10)
+Facility_010,202510,ANC_2nd_visit,37.0,72.5,statistical_outlier,medium,0.559,Modified z-score -3.7 against a facility median of 72 (MAD 6)
+Facility_008,202406,ANC_1st_visit,159.0,118.0,statistical_outlier,medium,0.559,Modified z-score 3.7 against a facility median of 118 (MAD 8)
+Facility_028,202510,ITN_distributed,62.0,116.0,statistical_outlier,medium,0.557,Modified z-score -3.6 against a facility median of 116 (MAD 10)
+Facility_039,202504,Malaria_tested,496.0,274.5,statistical_outlier,medium,0.551,Modified z-score 3.5 against a facility median of 274 (MAD 42)
+Facility_034,202503,ANC_1st_visit,115.0,89.0,statistical_outlier,medium,0.55,Modified z-score 3.5 against a facility median of 89 (MAD 5)
+Facility_039,all,ITN_distributed,0.4583333333333333,0.2,digit_preference,low,0.6,"46% of values end in 0 or 5 (chance is 20%), suggesting estimation rather than counting"
+Facility_001,all,Malaria_confirmed,1.0,0.2,digit_preference,low,0.6,"100% of values end in 0 or 5 (chance is 20%), suggesting estimation rather than counting"
+Facility_001,all,ITN_distributed,1.0,0.2,digit_preference,low,0.6,"100% of values end in 0 or 5 (chance is 20%), suggesting estimation rather than counting"
+Facility_001,all,ANC_2nd_visit,1.0,0.2,digit_preference,low,0.6,"100% of values end in 0 or 5 (chance is 20%), suggesting estimation rather than counting"
+Facility_001,all,ANC_1st_visit,1.0,0.2,digit_preference,low,0.6,"100% of values end in 0 or 5 (chance is 20%), suggesting estimation rather than counting"
+Facility_016,all,Malaria_confirmed,0.5,0.2,digit_preference,low,0.6,"50% of values end in 0 or 5 (chance is 20%), suggesting estimation rather than counting"
+Facility_029,all,ANC_2nd_visit,0.4583333333333333,0.2,digit_preference,low,0.6,"46% of values end in 0 or 5 (chance is 20%), suggesting estimation rather than counting"
+Facility_001,all,Malaria_treated,1.0,0.2,digit_preference,low,0.6,"100% of values end in 0 or 5 (chance is 20%), suggesting estimation rather than counting"
+Facility_029,all,Malaria_confirmed,0.4583333333333333,0.2,digit_preference,low,0.6,"46% of values end in 0 or 5 (chance is 20%), suggesting estimation rather than counting"
+Facility_001,all,Malaria_tested,1.0,0.2,digit_preference,low,0.6,"100% of values end in 0 or 5 (chance is 20%), suggesting estimation rather than counting"

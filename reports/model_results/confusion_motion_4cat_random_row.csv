@@ -1,0 +1,5 @@
+,pred_Nothing,pred_Put down,pred_Put up,pred_Enter or exit
+true_Nothing,517,0,0,0
+true_Put down,0,215,9,4
+true_Put up,0,0,500,4
+true_Enter or exit,0,7,0,84

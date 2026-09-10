@@ -1,0 +1,54 @@
+﻿# ---------------------------------------------------------------------------
+# STUDY DATA IS NEVER COMMITTED.
+# The tagged accelerometer extract is human-subjects research data owned by the
+# study investigators, not by this repository. See data/README.md before
+# changing anything below.
+# ---------------------------------------------------------------------------
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+!data/README.md
+*.dta
+*.bin
+*.csv.gz
+
+# ---------------------------------------------------------------------------
+# TRAINED MODEL BINARIES ARE NEVER COMMITTED.
+# A 1000-tree forest is ~13 MB and git keeps every version forever, so a few
+# lifecycle runs would bloat the repository permanently. They are regenerable:
+#   PYTHONPATH=src python scripts/run_mlops_lifecycle.py
+# The registry index and audit trail ARE tracked — those are the governance
+# record, and they are small, readable and diffable.
+# ---------------------------------------------------------------------------
+**/*.joblib
+**/*.pkl
+models/registry/artefacts/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

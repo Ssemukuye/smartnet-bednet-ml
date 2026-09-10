@@ -1,0 +1,7 @@
+key,stage,algorithm,label_scheme,created_at,created_by,approved_by,data_hash,n_rows,metric_accuracy,metric_balanced_accuracy,metric_macro_f1,metric_macro_precision,metric_macro_recall,metric_worst_class_sensitivity
+bednet-behaviour-classifier:v1,staging,random_forest,motion_5cat,2026-09-10T09:20:59+00:00,ssemukuye.timothy,,6d8c5cc2b7ab431a,1340,0.94701,0.77352,0.77227,0.773,0.77352,0.34043
+bednet-behaviour-classifier:v2,archived,random_forest,motion_4cat,2026-09-10T09:21:08+00:00,ssemukuye.timothy,ssemukuye.timothy,4646e9b1f89ed341,1340,0.97761,0.9602,0.96143,0.9631,0.9602,0.91667
+bednet-behaviour-classifier:v3,archived,logistic_regression,motion_4cat,2026-09-10T09:21:09+00:00,ssemukuye.timothy,ssemukuye.timothy,4646e9b1f89ed341,1340,0.96343,0.95754,0.94751,0.93862,0.95754,0.91667
+bednet-behaviour-classifier:v4,staging,random_forest,motion_5cat,2026-09-10T14:00:55+00:00,ssemukuye.timothy,,6d8c5cc2b7ab431a,1340,0.94701,0.77352,0.77227,0.773,0.77352,0.34043
+bednet-behaviour-classifier:v5,production,random_forest,motion_4cat,2026-09-10T14:01:04+00:00,ssemukuye.timothy,ssemukuye.timothy,4646e9b1f89ed341,1340,0.97761,0.9602,0.96143,0.9631,0.9602,0.91667
+bednet-behaviour-classifier:v6,archived,logistic_regression,motion_4cat,2026-09-10T14:01:05+00:00,ssemukuye.timothy,ssemukuye.timothy,4646e9b1f89ed341,1340,0.96343,0.95754,0.94751,0.93862,0.95754,0.91667

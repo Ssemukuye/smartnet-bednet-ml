@@ -1,0 +1,6 @@
+model,random_row,grouped_event,grouped_day,inflation_random_vs_event
+decision_tree,0.9373,0.9306,0.9024,0.0067
+gradient_boosting,0.9552,0.9455,0.9441,0.0097
+logistic_regression,0.9373,0.9343,0.9099,0.003
+majority_baseline,0.3858,0.3739,0.3611,0.0119
+random_forest,0.9522,0.947,0.9419,0.0052
