@@ -223,7 +223,35 @@ Leone or Uganda data quality. Reporting it as a real-world finding would be wron
 
 ---
 
-## 8. Honest position
+## 8. Reproducing this
+
+The exploration above was done interactively against the live demo. To re-derive it
+yourself rather than take it on trust:
+
+```bash
+export DHIS2_BASE_URL="https://play.im.dhis2.org/stable-2-43-1"
+export DHIS2_USERNAME="admin"
+export DHIS2_PASSWORD="..."          # never commit this
+
+PYTHONPATH=src python scripts/explore_dhis2.py
+```
+
+That connects, reports what the instance contains, imports its validation rules,
+pulls real facility data and runs the detectors — writing
+`dhis2_live_validation_rules.csv`, `dhis2_live_anomalies.csv` and
+`dhis2_live_manifest.json` to `reports/model_results/`.
+
+`--no-detect` stops after the metadata step. `--district <UID>` points it at a
+different organisation unit. Everything is read-only; nothing is written back.
+
+**Note on provenance.** `smartnet/dhis2/client.py` is unit-tested against response
+shapes captured verbatim from this instance, but the exploration that produced the
+findings above was run interactively. Running the script is what confirms the Python
+client works end to end against a live server.
+
+---
+
+## 9. Honest position
 
 I have now read a live DHIS2 instance, mapped its data model, imported its
 validation rules programmatically, and run detectors against its real data. That is

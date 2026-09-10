@@ -347,7 +347,7 @@ Run against real facility data (Bo district, 28 facilities, 12 months, 971 value
 
 Notably, DHIS2's own `/api/outlierDetection` endpoint also defaults to modified z-score for the same reason we chose it: a single mis-keyed extreme inflates the standard deviation enough to conceal itself.
 
-Full notes: [`docs/DHIS2_NOTES.md`](docs/DHIS2_NOTES.md). Credentials are read from `DHIS2_BASE_URL` / `DHIS2_USERNAME` / `DHIS2_PASSWORD`, never from code.
+Reproduce the live exploration with `PYTHONPATH=src python scripts/explore_dhis2.py`. Full notes: [`docs/DHIS2_NOTES.md`](docs/DHIS2_NOTES.md). Credentials are read from `DHIS2_BASE_URL` / `DHIS2_USERNAME` / `DHIS2_PASSWORD`, never from code.
 
 *Synthetic data is used because the public DHIS2 demo has no ground truth about which values are wrong, and real MOH data cannot be published. Injecting known errors is what makes precision and recall measurable at all.*
 
@@ -428,6 +428,7 @@ smartnet-bednet-ml/
 │   ├── make_figures.py
 │   ├── run_mlops_lifecycle.py governed lifecycle, end to end
 │   ├── run_dhis2_anomaly.py   DHIS2 detection + evaluation
+│   ├── explore_dhis2.py       connect to a live DHIS2 instance and detect
 │   ├── make_notebooks.py
 │   ├── merge_notebooks.py
 │   └── make_synthetic_sample.py

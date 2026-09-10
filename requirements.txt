@@ -4,6 +4,9 @@ numpy>=1.24
 scipy>=1.10
 scikit-learn>=1.3
 
+# DHIS2 Web API client (optional; only needed for live-instance work)
+requests>=2.31
+
 # Visualisation
 matplotlib>=3.7
 
